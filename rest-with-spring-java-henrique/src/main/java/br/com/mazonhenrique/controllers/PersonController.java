@@ -1,7 +1,7 @@
 package br.com.mazonhenrique.controllers;
 
 import br.com.mazonhenrique.model.Person;
-import br.com.mazonhenrique.service.PersonService;
+import br.com.mazonhenrique.services.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package br.com.mazonhenrique.service;
+package br.com.mazonhenrique.services;
 
 import br.com.mazonhenrique.model.Person;
 import org.springframework.stereotype.Service;
